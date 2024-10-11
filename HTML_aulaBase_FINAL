@@ -1,0 +1,98 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-111f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html
+Subject: Banner
+Date: Fri, 11 Oct 2024 20:33:07 -0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--vR7UB5WymYiPAt7nKCvtoGBRAQCJGedkhzxrJRd7wu----"
+
+
+------MultipartBoundary--vR7UB5WymYiPAt7nKCvtoGBRAQCJGedkhzxrJRd7wu----
+Content-Type: text/html
+Content-ID: <frame-FA2AF6A4CEA6DAFE30DEB4CEEA720988@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-111f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html
+
+<!DOCTYPE html><html lang=3D"pt-br"><head><meta http-equiv=3D"Content-Type"=
+ content=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Banner</title>
+    <link rel=3D"stylesheet" href=3D"file:///C:/Users/mathe/AppData/Local/T=
+emp/f0f9f6ac-111f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/style.cs=
+s">
+   =20
+</head>
+<body id=3D"inicio">
+    <header>
+        <nav>
+            <a href=3D"file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-1=
+11f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html#inicio">Hom=
+e</a>
+            <a href=3D"file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-1=
+11f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html#portfolio">=
+Porfolio</a>
+            <a href=3D"file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-1=
+11f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html#orcamento">=
+Or=C3=A7amento</a>
+            <a href=3D"file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-1=
+11f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html#comentarios=
+">Comentarios</a>
+            <a href=3D"file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-1=
+11f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/index.html#login" id=
+=3D"btnLogin">Admin</a>
+        </nav>
+    </header>
+<main>
+    <section>
+        <h1>Conte=C3=BAdo principal</h1>
+    </section>
+    <section id=3D"portfolio">
+        <h1>Portfolio</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum=
+ reprehenderit, necessitatibus voluptatibus cumque inventore iure illum, ip=
+sa nemo ab aut atque delectus consectetur blanditiis doloremque praesentium=
+ perferendis eos quidem alias.</p>
+    </section>
+    <section id=3D"orcamento">
+        <h1>Or=C3=A7amento</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum=
+ reprehenderit, necessitatibus voluptatibus cumque inventore iure illum, ip=
+sa nemo ab aut atque delectus consectetur blanditiis doloremque praesentium=
+ perferendis eos quidem alias.</p>
+    </section>
+    <section id=3D"comentarios">
+        <h1>Comentarios</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum=
+ reprehenderit, necessitatibus voluptatibus cumque inventore iure illum, ip=
+sa nemo ab aut atque delectus consectetur blanditiis doloremque praesentium=
+ perferendis eos quidem alias.</p>
+    </section>
+</main>
+<dialog id=3D"login">
+    <form>
+        <h2>Login</h2>
+            <label for=3D"email"> E-mail:</label>
+            <input type=3D"text" name=3D"email" id=3D"email"><br>
+            <label for=3D"senha"> Senha: </label>
+            <input type=3D"password" name=3D"senha" id=3D"senha"><br>
+            <button type=3D"button" id=3D"btnFechar">Sair</button>
+            <button type=3D"submit">Entrar</button>
+    </form>
+</dialog>
+<footer>
+    <p>Exemplo de Login</p>
+</footer>
+
+
+</body></html>
+------MultipartBoundary--vR7UB5WymYiPAt7nKCvtoGBRAQCJGedkhzxrJRd7wu----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/Users/mathe/AppData/Local/Temp/f0f9f6ac-111f-475f-9ecc-f3cddf99c654_aulaBase.zip.654/aulaBase/style.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--vR7UB5WymYiPAt7nKCvtoGBRAQCJGedkhzxrJRd7wu------
